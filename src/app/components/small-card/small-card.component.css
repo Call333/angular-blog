@@ -1,6 +1,5 @@
-
 .small-card-container {
-    width: 500px;
+    width: 600px;
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
@@ -12,10 +11,10 @@
 }
 
 .small-card-photo > img{
-    width: 200px;
+    width: 300px;
     min-width: 200px;
     margin-right: 20px;
-    min-height: 140px;
+    min-height: 150px;
 }
 
 .small-card-datas { 
@@ -43,5 +42,5 @@ a {
 .small-card-separator > hr {
     width: 100%;
     margin-top: 6px;
+    border-color: rgba(112, 112, 112, 0.603)
 }
-

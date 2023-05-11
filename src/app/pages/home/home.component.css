@@ -1,13 +1,16 @@
-*{
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     color: white;
 }
 
 .home-page { 
-    padding: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
 .articles {
-    margin-top: 30px;
     display: flex;
     flex-direction: row;
     justify-content: center;
