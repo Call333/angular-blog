@@ -1,0 +1,22 @@
+*{
+    color: white;
+}
+
+.home-page { 
+    padding: 30px;
+}
+
+.articles {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.articles-main {
+    display: flex;
+}
+
+.home-page > .articles {
+    margin: 30px;
+}
