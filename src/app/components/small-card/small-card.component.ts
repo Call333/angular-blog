@@ -14,4 +14,7 @@ export class SmallCardComponent {
 
   @Input()
   cardTime: string = ``;
+
+  @Input()
+  Id:string = '0'
 }
