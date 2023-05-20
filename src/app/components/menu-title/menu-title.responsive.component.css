@@ -1,5 +1,5 @@
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
     .menu-title-container h1 {
-        font-size: 40pt;
+        font-size:35pt;
     }
 }
